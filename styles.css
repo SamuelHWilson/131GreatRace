@@ -1,0 +1,12 @@
+body {
+    background-image: url("img/stars.gif");
+}
+
+/* Track */
+#track {
+    background-image: url("img/ground.jpg");
+    width: 100%;
+    height: 350px;
+    position: absolute;
+    top: 35%;
+}
