@@ -6,7 +6,27 @@ body {
 #track {
     background-image: url("img/ground.jpg");
     width: 100%;
-    height: 350px;
+    height: 35%;
     position: absolute;
-    top: 35%;
+    top: 50%;
+}
+
+/* Stoplight */
+#stoplight {
+    width: 6%;
+    position: absolute;
+    top: 15%;
+    left: 47%;
+
+}
+#stoplight img {
+    width: 100%;
+    height: auto;
+}
+
+/* Contestants */
+.contestant {
+    width: auto;
+    position: absolute;;
+    left: 3%;
 }
